@@ -1,7 +1,7 @@
 PERSONAL FINANCE TRACKER
 <br>
 A full-stack web application to help users manage their finances efficiently — track expenses, set budgets, monitor savings goals, and get financial insights, all in one place.
-<br>
+<br><br>
 TECH STACK
 | Layer    | Technology          |
 | -------- | ------------------- |
